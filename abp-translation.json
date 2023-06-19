@@ -10643,317 +10643,317 @@
         {
           "LocalizationKey": "Menu:Account",
           "Reference": "Account",
-          "Target": ""
+          "Target": "حساب کاربری"
         },
         {
           "LocalizationKey": "UserName",
           "Reference": "Username",
-          "Target": ""
+          "Target": "نام کاربری"
         },
         {
           "LocalizationKey": "EmailAddress",
           "Reference": "Email address",
-          "Target": ""
+          "Target": "ایمیل"
         },
         {
           "LocalizationKey": "UserNameOrEmailAddress",
           "Reference": "Username or email address",
-          "Target": ""
+          "Target": "نام کاربری یا آدرس ایمیل"
         },
         {
           "LocalizationKey": "Password",
           "Reference": "Password",
-          "Target": ""
+          "Target": "رمز عبور"
         },
         {
           "LocalizationKey": "RememberMe",
           "Reference": "Remember me",
-          "Target": ""
+          "Target": "مرا به خاطر بسپار"
         },
         {
           "LocalizationKey": "UseAnotherServiceToLogin",
           "Reference": "Use another service to log in",
-          "Target": ""
+          "Target": "برای ورود به سیستم از سرویس دیگری استفاده کنید"
         },
         {
           "LocalizationKey": "UserLockedOutMessage",
           "Reference": "The user account has been locked out due to invalid login attempts. Please wait a while and try again.",
-          "Target": ""
+          "Target": "حساب کاربری به دلیل تلاش برای ورود نامعتبر قفل شده است. لطفا کمی صبر کنید و دوباره امتحان کنید."
         },
         {
           "LocalizationKey": "InvalidUserNameOrPassword",
           "Reference": "Invalid username or password!",
-          "Target": ""
+          "Target": "نام کاربری یا رمز عبور نامعتبر است!"
         },
         {
           "LocalizationKey": "LoginIsNotAllowed",
           "Reference": "You are not allowed to login! Your account is inactive or needs to confirm your email/phone number.",
-          "Target": ""
+          "Target": "شما مجاز به ورود نیستید! حساب شما غیرفعال است یا باید ایمیل/شماره تلفن خود را تأیید کنید."
         },
         {
           "LocalizationKey": "SelfRegistrationDisabledMessage",
           "Reference": "Self-registration is disabled for this application. Please contact the application administrator to register a new user.",
-          "Target": ""
+          "Target": "ثبت نام برای این برنامه غیرفعال است. لطفاً برای ثبت نام کاربر جدید با مدیر برنامه تماس بگیرید."
         },
         {
           "LocalizationKey": "LocalLoginDisabledMessage",
           "Reference": "Local login is disabled for this application.",
-          "Target": ""
+          "Target": "ورود به سیستم محلی برای این برنامه غیرفعال است."
         },
         {
           "LocalizationKey": "Login",
           "Reference": "Login",
-          "Target": ""
+          "Target": "ورود"
         },
         {
           "LocalizationKey": "Cancel",
           "Reference": "Cancel",
-          "Target": ""
+          "Target": "انصراف"
         },
         {
           "LocalizationKey": "Register",
           "Reference": "Register",
-          "Target": ""
+          "Target": "ثبت نام"
         },
         {
           "LocalizationKey": "AreYouANewUser",
           "Reference": "Are you a new user?",
-          "Target": ""
+          "Target": "ایا شما یک کاربر جدید هستید؟"
         },
         {
           "LocalizationKey": "AlreadyRegistered",
           "Reference": "Already registered?",
-          "Target": ""
+          "Target": "قبلا ثبت نام کرده اید؟"
         },
         {
           "LocalizationKey": "InvalidLoginRequest",
           "Reference": "Invalid login request",
-          "Target": ""
+          "Target": "درخواست ورود نامعتبر"
         },
         {
           "LocalizationKey": "ThereAreNoLoginSchemesConfiguredForThisClient",
           "Reference": "There are no login schemes configured for this client.",
-          "Target": ""
+          "Target": "هیچ طرح ورود به سیستم برای این مشتری پیکربندی نشده است."
         },
         {
           "LocalizationKey": "LogInUsingYourProviderAccount",
           "Reference": "Log in using your {0} account",
-          "Target": ""
+          "Target": "با استفاده از حساب {0} خود وارد شوید"
         },
         {
           "LocalizationKey": "DisplayName:CurrentPassword",
           "Reference": "Current password",
-          "Target": ""
+          "Target": "رمز عبور فعلی"
         },
         {
           "LocalizationKey": "DisplayName:NewPassword",
           "Reference": "New password",
-          "Target": ""
+          "Target": "رمز عبور جدید"
         },
         {
           "LocalizationKey": "DisplayName:NewPasswordConfirm",
           "Reference": "Confirm new password",
-          "Target": ""
+          "Target": "رمز عبور جدید را تایید کنید"
         },
         {
           "LocalizationKey": "PasswordChangedMessage",
           "Reference": "Your password has been changed successfully.",
-          "Target": ""
+          "Target": "رمز عبور شما با موفقیت تغییر کرد."
         },
         {
           "LocalizationKey": "DisplayName:UserName",
           "Reference": "Username",
-          "Target": ""
+          "Target": "نام کاربری"
         },
         {
           "LocalizationKey": "DisplayName:Email",
           "Reference": "Email",
-          "Target": ""
+          "Target": "ایمیل"
         },
         {
           "LocalizationKey": "DisplayName:Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "نام"
         },
         {
           "LocalizationKey": "DisplayName:Surname",
           "Reference": "Surname",
-          "Target": ""
+          "Target": "نام خانوادگی"
         },
         {
           "LocalizationKey": "DisplayName:Password",
           "Reference": "Password",
-          "Target": ""
+          "Target": "رمز عبور"
         },
         {
           "LocalizationKey": "DisplayName:EmailAddress",
           "Reference": "Email address",
-          "Target": ""
+          "Target": "ایمیل"
         },
         {
           "LocalizationKey": "DisplayName:PhoneNumber",
           "Reference": "Phone number",
-          "Target": ""
+          "Target": "شماره تلفن"
         },
         {
           "LocalizationKey": "PersonalSettings",
           "Reference": "Personal settings",
-          "Target": ""
+          "Target": "تنظیمات شخصی"
         },
         {
           "LocalizationKey": "PersonalSettingsSaved",
           "Reference": "Personal settings saved",
-          "Target": ""
+          "Target": "تنظیمات شخصی ذخیره شد"
         },
         {
           "LocalizationKey": "PasswordChanged",
           "Reference": "Password changed",
-          "Target": ""
+          "Target": "رمز عبور تغییر کرد"
         },
         {
           "LocalizationKey": "NewPasswordConfirmFailed",
           "Reference": "Please confirm the new password.",
-          "Target": ""
+          "Target": "لطفا رمز عبور جدید را تایید کنید."
         },
         {
           "LocalizationKey": "Manage",
           "Reference": "Manage",
-          "Target": ""
+          "Target": "مدیریت"
         },
         {
           "LocalizationKey": "MyAccount",
           "Reference": "My account",
-          "Target": ""
+          "Target": "حساب من"
         },
         {
           "LocalizationKey": "DisplayName:Abp.Account.IsSelfRegistrationEnabled",
           "Reference": "Is self-registration enabled",
-          "Target": ""
+          "Target": "آیا ثبت نام فعال است"
         },
         {
           "LocalizationKey": "Description:Abp.Account.IsSelfRegistrationEnabled",
           "Reference": "Whether a user can register the account by him or herself.",
-          "Target": ""
+          "Target": "اینکه آیا کاربر می تواند توسط خودش حساب را ثبت کند یا خیر."
         },
         {
           "LocalizationKey": "DisplayName:Abp.Account.EnableLocalLogin",
           "Reference": "Authenticate with a local account",
-          "Target": ""
+          "Target": "احراز هویت با یک حساب محلی"
         },
         {
           "LocalizationKey": "Description:Abp.Account.EnableLocalLogin",
           "Reference": "Indicates if the server will allow users to authenticate with a local account.",
-          "Target": ""
+          "Target": "نشان می دهد که آیا سرور به کاربران اجازه می دهد با یک حساب محلی احراز هویت کنند."
         },
         {
           "LocalizationKey": "LoggedOutTitle",
           "Reference": "Signed Out",
-          "Target": ""
+          "Target": "از سیستم خارج شده‌اید"
         },
         {
           "LocalizationKey": "LoggedOutText",
           "Reference": "You have been signed out and you will be redirected soon.",
-          "Target": ""
+          "Target": "شما از سیستم خارج شده اید و به زودی هدایت می شوید."
         },
         {
           "LocalizationKey": "ReturnToText",
           "Reference": "Click here to return to the application",
-          "Target": ""
+          "Target": "برای بازگشت به برنامه اینجا کلیک کنید"
         },
         {
           "LocalizationKey": "OrLoginWith",
           "Reference": "Or login with:",
-          "Target": ""
+          "Target": "یا ورود با استفاده از:"
         },
         {
           "LocalizationKey": "ForgotPassword",
           "Reference": "Forgot password?",
-          "Target": ""
+          "Target": "رمز عبور را فراموش کرده اید؟"
         },
         {
           "LocalizationKey": "SendPasswordResetLink_Information",
           "Reference": "A password reset link will be sent to your email to reset your password. If you don't get an email within a few minutes, please re-try.",
-          "Target": ""
+          "Target": "برای بازنشانی رمز عبور، لینک بازنشانی رمز عبور به ایمیل شما ارسال می شود. اگر در عرض چند دقیقه ایمیلی دریافت نکردید، لطفاً دوباره امتحان کنید."
         },
         {
           "LocalizationKey": "PasswordResetMailSentMessage",
           "Reference": "Account recovery email sent to your e-mail address. If you don't see this email in your inbox within 15 minutes, look for it in your junk mail folder. If you find it there, please mark it as -Not Junk-. ",
-          "Target": ""
+          "Target": "ایمیل بازیابی حساب به آدرس ایمیل شما ارسال شد. اگر ظرف 15 دقیقه این ایمیل را در صندوق ورودی خود مشاهده نکردید، آن را در پوشه نامه های ناخواسته خود جستجو کنید. اگر آن را در آنجا پیدا کردید، لطفاً آن را به عنوان -Not Junk- علامت بزنید."
         },
         {
           "LocalizationKey": "ResetPassword",
           "Reference": "Reset Password",
-          "Target": ""
+          "Target": "بازنشانی رمز عبور"
         },
         {
           "LocalizationKey": "ConfirmPassword",
           "Reference": "Confirm (repeat) the password",
-          "Target": ""
+          "Target": "رمز عبور را تأیید کنید (تکرار کنید)."
         },
         {
           "LocalizationKey": "ResetPassword_Information",
           "Reference": "Please enter your new password.",
-          "Target": ""
+          "Target": "لطفا رمز عبور جدید خود را وارد کنید."
         },
         {
           "LocalizationKey": "YourPasswordIsSuccessfullyReset",
           "Reference": "Your password is successfully reset.",
-          "Target": ""
+          "Target": "رمز عبور شما با موفقیت بازنشانی شد."
         },
         {
           "LocalizationKey": "GoToTheApplication",
           "Reference": "Go to the application",
-          "Target": ""
+          "Target": "بازگشت به برنامه"
         },
         {
           "LocalizationKey": "BackToLogin",
           "Reference": "Back to login",
-          "Target": ""
+          "Target": "بازگشت به صفحه ورود"
         },
         {
           "LocalizationKey": "ProfileTab:Password",
           "Reference": "Change password",
-          "Target": ""
+          "Target": "تغییر رمز عبور"
         },
         {
           "LocalizationKey": "ProfileTab:PersonalInfo",
           "Reference": "Personal info",
-          "Target": ""
+          "Target": "اطلاعات شخصی"
         },
         {
           "LocalizationKey": "ReturnToApplication",
           "Reference": "Return to application",
-          "Target": ""
+          "Target": "بازگشت به برنامه"
         },
         {
           "LocalizationKey": "Volo.Account:InvalidEmailAddress",
           "Reference": "Can not find the given email address: {0}",
-          "Target": ""
+          "Target": "نمی توان آدرس ایمیل داده شده را پیدا کرد: {0}"
         },
         {
           "LocalizationKey": "PasswordReset",
           "Reference": "Password reset",
-          "Target": ""
+          "Target": "بازنشانی رمز عبور"
         },
         {
           "LocalizationKey": "PasswordResetInfoInEmail",
           "Reference": "We received an account recovery request! If you initiated this request, click the following link to reset your password.",
-          "Target": ""
+          "Target": "ما یک درخواست بازیابی حساب دریافت کردیم! اگر شما این درخواست را انجام داده اید، روی پیوند زیر کلیک کنید تا رمز عبور خود را بازنشانی کنید."
         },
         {
           "LocalizationKey": "ResetMyPassword",
           "Reference": "Reset my password",
-          "Target": ""
+          "Target": "بازنشانی رمز عبور"
         },
         {
           "LocalizationKey": "AccessDenied",
           "Reference": "Access denied!",
-          "Target": ""
+          "Target": "دسترسی ممنوع!"
         },
         {
           "LocalizationKey": "AccessDeniedMessage",
           "Reference": "You do not have access to this resource.",
-          "Target": ""
+          "Target": "شما به این منبع دسترسی ندارید."
         }
       ]
     },
@@ -10963,7 +10963,7 @@
         {
           "LocalizationKey": "MyAccount",
           "Reference": "My account",
-          "Target": ""
+          "Target": "حساب من"
         }
       ]
     },
