@@ -10973,27 +10973,27 @@
         {
           "LocalizationKey": "Features",
           "Reference": "Features",
-          "Target": ""
+          "Target": "ویژگی ها"
         },
         {
           "LocalizationKey": "NoFeatureFoundMessage",
           "Reference": "There isn't any available feature.",
-          "Target": ""
+          "Target": "هیچ ویژگی در دسترس نیست"
         },
         {
           "LocalizationKey": "Permission:FeatureManagement",
           "Reference": "Feature management",
-          "Target": ""
+          "Target": "مدیریت ویژگی ها"
         },
         {
           "LocalizationKey": "Permission:FeatureManagement.ManageHostFeatures",
           "Reference": "Manage Host features",
-          "Target": ""
+          "Target": "مدیریت ویژگی های هاست"
         },
         {
           "LocalizationKey": "Volo.Abp.FeatureManagement:InvalidFeatureValue",
           "Reference": "{0} feature value is not valid!",
-          "Target": ""
+          "Target": "مقدار ویژگی {0} معتبر نیست!"
         }
       ]
     },
@@ -11003,42 +11003,42 @@
         {
           "LocalizationKey": "Volo.IdentityServer:DuplicateIdentityResourceName",
           "Reference": "Identity Resource name already exist: {Name}",
-          "Target": ""
+          "Target": "نام منبع هویت از قبل وجود دارد: {Name}"
         },
         {
           "LocalizationKey": "Volo.IdentityServer:DuplicateApiResourceName",
           "Reference": "Api Resource name already exist: {Name}",
-          "Target": ""
+          "Target": "نام منبع Api از قبل وجود دارد: {Name}"
         },
         {
           "LocalizationKey": "Volo.IdentityServer:DuplicateApiScopeName",
           "Reference": "Api Scope name already exist: {Name}",
-          "Target": ""
+          "Target": "نام دامنه Api از قبل وجود دارد: {Name}"
         },
         {
           "LocalizationKey": "Volo.IdentityServer:DuplicateClientId",
           "Reference": "ClientId already exist: {ClientId}",
-          "Target": ""
+          "Target": "شناسه از قبل وجود دارد: {ClientId}"
         },
         {
           "LocalizationKey": "UserLockedOut",
           "Reference": "The user account has been locked out due to invalid login attempts. Please wait a while and try again.",
-          "Target": ""
+          "Target": "حساب کاربری به دلیل تلاش برای ورود نامعتبر قفل شده است. لطفا کمی صبر کنید و دوباره امتحان کنید."
         },
         {
           "LocalizationKey": "InvalidUserNameOrPassword",
           "Reference": "Invalid username or password!",
-          "Target": ""
+          "Target": "نام کاربری یا رمز عبور نامعتبر است!"
         },
         {
           "LocalizationKey": "LoginIsNotAllowed",
           "Reference": "You are not allowed to login! Your account is inactive or needs to confirm your email/phone number.",
-          "Target": ""
+          "Target": "شما مجاز به ورود نیستید! حساب شما غیرفعال است یا باید ایمیل/شماره تلفن خود را تأیید کنید."
         },
         {
           "LocalizationKey": "InvalidUsername",
           "Reference": "Invalid username or password!",
-          "Target": ""
+          "Target": "کد احراز هویت نامعتبر است!"
         },
         {
           "LocalizationKey": "InvalidAuthenticatorCode",
@@ -11048,7 +11048,7 @@
         {
           "LocalizationKey": "TheTargetUserIsNotLinkedToYou",
           "Reference": "The target user is not linked to you!",
-          "Target": ""
+          "Target": "کاربر مورد نظر به شما پیوند داده نشده است!"
         }
       ]
     },
@@ -11058,32 +11058,32 @@
         {
           "LocalizationKey": "Permissions",
           "Reference": "Permissions",
-          "Target": ""
+          "Target": "مجوزها"
         },
         {
           "LocalizationKey": "OnlyProviderPermissons",
           "Reference": "Only this provider",
-          "Target": ""
+          "Target": "فقط این ارائه دهنده"
         },
         {
           "LocalizationKey": "All",
           "Reference": "All",
-          "Target": ""
+          "Target": "همه"
         },
         {
           "LocalizationKey": "SelectAllInAllTabs",
           "Reference": "Grant all permissions",
-          "Target": ""
+          "Target": "اعطای همه مجوزها"
         },
         {
           "LocalizationKey": "SelectAllInThisTab",
           "Reference": "Select all",
-          "Target": ""
+          "Target": "انتخاب همه"
         },
         {
           "LocalizationKey": "RemoveAllPermissionsWarningMessage",
           "Reference": "Are you sure you want to remove all permissions?",
-          "Target": ""
+          "Target": "آیا مطمئن هستید که می خواهید همه مجوزها را حذف کنید؟"
         }
       ]
     },
@@ -11093,92 +11093,92 @@
         {
           "LocalizationKey": "Menu:TenantManagement",
           "Reference": "Tenant management",
-          "Target": ""
+          "Target": "مدیریت مستاجرین"
         },
         {
           "LocalizationKey": "Tenants",
           "Reference": "Tenants",
-          "Target": ""
+          "Target": "مستاجرین"
         },
         {
           "LocalizationKey": "NewTenant",
           "Reference": "New tenant",
-          "Target": ""
+          "Target": "مستاجر جدید"
         },
         {
           "LocalizationKey": "TenantName",
           "Reference": "Tenant name",
-          "Target": ""
+          "Target": "نام مستاجر"
         },
         {
           "LocalizationKey": "DisplayName:TenantName",
           "Reference": "Tenant name",
-          "Target": ""
+          "Target": "نام مستاجر"
         },
         {
           "LocalizationKey": "TenantDeletionConfirmationMessage",
           "Reference": "Tenant '{0}' will be deleted. Do you confirm that?",
-          "Target": ""
+          "Target": "مستاجر '{0}' حذف خواهد شد. آیا شما آن را تایید می کنید؟"
         },
         {
           "LocalizationKey": "ConnectionStrings",
           "Reference": "Connection Strings",
-          "Target": ""
+          "Target": "رشته های اتصال"
         },
         {
           "LocalizationKey": "DisplayName:DefaultConnectionString",
           "Reference": "Default Connection String",
-          "Target": ""
+          "Target": "رشته اتصال پیش فرض"
         },
         {
           "LocalizationKey": "DisplayName:UseSharedDatabase",
           "Reference": "Use the Shared Database",
-          "Target": ""
+          "Target": "استفاده از دیتابیس اشتراکی"
         },
         {
           "LocalizationKey": "ManageHostFeatures",
           "Reference": "Manage Host features",
-          "Target": ""
+          "Target": "مدیریت ویژگی های هاست"
         },
         {
           "LocalizationKey": "Permission:TenantManagement",
           "Reference": "Tenant management",
-          "Target": ""
+          "Target": "مدیریت مستاجرین"
         },
         {
           "LocalizationKey": "Permission:Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "ایجاد"
         },
         {
           "LocalizationKey": "Permission:Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "ویرایش"
         },
         {
           "LocalizationKey": "Permission:Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "حذف"
         },
         {
           "LocalizationKey": "Permission:ManageConnectionStrings",
           "Reference": "Manage connection strings",
-          "Target": ""
+          "Target": "مدیریت رشته های اتصال"
         },
         {
           "LocalizationKey": "Permission:ManageFeatures",
           "Reference": "Manage features",
-          "Target": ""
+          "Target": "مدیریت ویژگی ها"
         },
         {
           "LocalizationKey": "DisplayName:AdminEmailAddress",
           "Reference": "Admin Email Address",
-          "Target": ""
+          "Target": "ایمیل مدیر"
         },
         {
           "LocalizationKey": "DisplayName:AdminPassword",
           "Reference": "Admin Password",
-          "Target": ""
+          "Target": "رمز عبور مدیر"
         }
       ]
     },
@@ -11188,42 +11188,42 @@
         {
           "LocalizationKey": "GivenTenantIsNotExist",
           "Reference": "Given tenant is not exist: {0}",
-          "Target": ""
+          "Target": "مستاجر داده شده وجود ندارد: {0}"
         },
         {
           "LocalizationKey": "GivenTenantIsNotAvailable",
           "Reference": "Given tenant is not available: {0}",
-          "Target": ""
+          "Target": "مستاجر داده شده در دسترس نیست: {0}"
         },
         {
           "LocalizationKey": "Tenant",
           "Reference": "Tenant",
-          "Target": ""
+          "Target": "مستاجر"
         },
         {
           "LocalizationKey": "Switch",
           "Reference": "switch",
-          "Target": ""
+          "Target": "تغییر"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "نام"
         },
         {
           "LocalizationKey": "SwitchTenantHint",
           "Reference": "Leave the name field blank to switch to the host side.",
-          "Target": ""
+          "Target": "نام را خالی بگذارید تا به عنوان هاست وارد شوید."
         },
         {
           "LocalizationKey": "SwitchTenant",
           "Reference": "Switch tenant",
-          "Target": ""
+          "Target": "تغییر مستاجر"
         },
         {
           "LocalizationKey": "NotSelected",
           "Reference": "Not selected",
-          "Target": ""
+          "Target": "انتخاب نشده"
         }
       ]
     },
@@ -11233,97 +11233,97 @@
         {
           "LocalizationKey": "Settings",
           "Reference": "Settings",
-          "Target": ""
+          "Target": "تنظیمات"
         },
         {
           "LocalizationKey": "SuccessfullySaved",
           "Reference": "Successfully saved",
-          "Target": ""
+          "Target": "با موفقیت ذخیره شد"
         },
         {
           "LocalizationKey": "Permission:SettingManagement",
           "Reference": "Setting Management",
-          "Target": ""
+          "Target": "مدیریت تنظیمات"
         },
         {
           "LocalizationKey": "Permission:Emailing",
           "Reference": "Emailing",
-          "Target": ""
+          "Target": "ایمیل زدن"
         },
         {
           "LocalizationKey": "Menu:Emailing",
           "Reference": "Emailing",
-          "Target": ""
+          "Target": "ایمیل زدن"
         },
         {
           "LocalizationKey": "SmtpHost",
           "Reference": "Host",
-          "Target": ""
+          "Target": "هاست"
         },
         {
           "LocalizationKey": "SmtpPort",
           "Reference": "Port",
-          "Target": ""
+          "Target": "پورت"
         },
         {
           "LocalizationKey": "SmtpUserName",
           "Reference": "User name",
-          "Target": ""
+          "Target": "نام کاربری"
         },
         {
           "LocalizationKey": "SmtpPassword",
           "Reference": "Password",
-          "Target": ""
+          "Target": "رمز عبور"
         },
         {
           "LocalizationKey": "SmtpDomain",
           "Reference": "Domain",
-          "Target": ""
+          "Target": "دامنه"
         },
         {
           "LocalizationKey": "SmtpEnableSsl",
           "Reference": "Enable ssl",
-          "Target": ""
+          "Target": "فعال سازی SSL"
         },
         {
           "LocalizationKey": "SmtpUseDefaultCredentials",
           "Reference": "Use default credentials",
-          "Target": ""
+          "Target": "از اعتبارنامه های پیش فرض استفاده شود"
         },
         {
           "LocalizationKey": "DefaultFromAddress",
           "Reference": "Default from address",
-          "Target": ""
+          "Target": "آدرس پیش فرض ارسال کننده"
         },
         {
           "LocalizationKey": "DefaultFromDisplayName",
           "Reference": "Default from display name",
-          "Target": ""
+          "Target": "نام پیش فرض ارسال کننده"
         },
         {
           "LocalizationKey": "Feature:SettingManagementGroup",
           "Reference": "Setting Management",
-          "Target": ""
+          "Target": "مدیریت تنظیمات"
         },
         {
           "LocalizationKey": "Feature:SettingManagementEnable",
           "Reference": "Enable setting management",
-          "Target": ""
+          "Target": "فعال سازی مدیریت تنظیمات"
         },
         {
           "LocalizationKey": "Feature:SettingManagementEnableDescription",
           "Reference": "Enable setting management system in the application.",
-          "Target": ""
+          "Target": "سیستم مدیریت تنظیمات را در برنامه فعال کنید."
         },
         {
           "LocalizationKey": "Feature:AllowTenantsToChangeEmailSettings",
           "Reference": "Allow tenants to change email settings.",
-          "Target": ""
+          "Target": "به مستاجرین اجازه دهید تنظیمات ایمیل را تغییر دهند."
         },
         {
           "LocalizationKey": "Feature:AllowTenantsToChangeEmailSettingsDescription",
           "Reference": "Allow tenants to change email settings.",
-          "Target": ""
+          "Target": "به مستاجرین اجازه دهید تنظیمات ایمیل را تغییر دهند."
         }
       ]
     },
@@ -11333,272 +11333,272 @@
         {
           "LocalizationKey": "Permission:DocumentManagement",
           "Reference": "Document Management",
-          "Target": ""
+          "Target": "مدیریت اسناد"
         },
         {
           "LocalizationKey": "Permission:Projects",
           "Reference": "Projects",
-          "Target": ""
+          "Target": "پروژه ها"
         },
         {
           "LocalizationKey": "Permission:Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "ویرایش"
         },
         {
           "LocalizationKey": "Permission:Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "حذف"
         },
         {
           "LocalizationKey": "Permission:Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "ایجاد"
         },
         {
           "LocalizationKey": "Permission:Documents",
           "Reference": "Documents",
-          "Target": ""
+          "Target": "اسناد"
         },
         {
           "LocalizationKey": "Menu:Documents",
           "Reference": "Documents",
-          "Target": ""
+          "Target": "اسناد"
         },
         {
           "LocalizationKey": "Menu:DocumentManagement",
           "Reference": "Documents",
-          "Target": ""
+          "Target": "مدیریت اسناد"
         },
         {
           "LocalizationKey": "Menu:ProjectManagement",
           "Reference": "Projects",
-          "Target": ""
+          "Target": "پروژه ها"
         },
         {
           "LocalizationKey": "CreateANewProject",
           "Reference": "Create new project",
-          "Target": ""
+          "Target": "ایجاد پروژه جدید"
         },
         {
           "LocalizationKey": "Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "ویرایش"
         },
         {
           "LocalizationKey": "Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "ایجاد"
         },
         {
           "LocalizationKey": "Pull",
           "Reference": "Pull",
-          "Target": ""
+          "Target": "دریافت"
         },
         {
           "LocalizationKey": "Projects",
           "Reference": "Projects",
-          "Target": ""
+          "Target": "پروژه ها"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "نام"
         },
         {
           "LocalizationKey": "ShortName",
           "Reference": "ShortName",
-          "Target": ""
+          "Target": "نام کوتاه"
         },
         {
           "LocalizationKey": "DocumentStoreType",
           "Reference": "DocumentStoreType",
-          "Target": ""
+          "Target": "نوع ذخیره اسناد"
         },
         {
           "LocalizationKey": "Format",
           "Reference": "Format",
-          "Target": ""
+          "Target": "فرمت"
         },
         {
           "LocalizationKey": "ShortNameInfoText",
           "Reference": "Will be used for unique URL.",
-          "Target": ""
+          "Target": "برای ایجاده آدرس اختصاصی استفاده خواهد شد."
         },
         {
           "LocalizationKey": "DisplayName:Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "نام"
         },
         {
           "LocalizationKey": "DisplayName:ShortName",
           "Reference": "Short name",
-          "Target": ""
+          "Target": "نام کوتاه"
         },
         {
           "LocalizationKey": "DisplayName:Format",
           "Reference": "Format",
-          "Target": ""
+          "Target": "فرمت"
         },
         {
           "LocalizationKey": "DisplayName:DefaultDocumentName",
           "Reference": "Default document name",
-          "Target": ""
+          "Target": "نام سند پیش فرض"
         },
         {
           "LocalizationKey": "DisplayName:NavigationDocumentName",
           "Reference": "Navigation document name",
-          "Target": ""
+          "Target": "نام سند نویگیشن"
         },
         {
           "LocalizationKey": "DisplayName:MinimumVersion",
           "Reference": "Minimum version",
-          "Target": ""
+          "Target": "کمترین ورژن"
         },
         {
           "LocalizationKey": "DisplayName:MainWebsiteUrl",
           "Reference": "Main web site URL",
-          "Target": ""
+          "Target": "آدرس سایت اصلی"
         },
         {
           "LocalizationKey": "DisplayName:LatestVersionBranchName",
           "Reference": "Latest version branch name",
-          "Target": ""
+          "Target": "نام شاخه آخرین ورژن"
         },
         {
           "LocalizationKey": "DisplayName:GitHubRootUrl",
           "Reference": "GitHub root URL",
-          "Target": ""
+          "Target": "آدرس اصلی GitHub"
         },
         {
           "LocalizationKey": "DisplayName:GitHubAccessToken",
           "Reference": "GitHub access token",
-          "Target": ""
+          "Target": "توکن دسترسی GitHub"
         },
         {
           "LocalizationKey": "DisplayName:GitHubUserAgent",
           "Reference": "GitHub user agent",
-          "Target": ""
+          "Target": "کاربر ایجنت GitHub"
         },
         {
           "LocalizationKey": "DisplayName:GithubVersionProviderSource",
           "Reference": "GitHub version provider source",
-          "Target": ""
+          "Target": "منبع ارائه دهنده نسخه GitHub"
         },
         {
           "LocalizationKey": "DisplayName:VersionBranchPrefix",
           "Reference": "Version branch prefix",
-          "Target": ""
+          "Target": "پیشوند شاخه ورژن"
         },
         {
           "LocalizationKey": "DisplayName:All",
           "Reference": "Pull all",
-          "Target": ""
+          "Target": "دریافت همه"
         },
         {
           "LocalizationKey": "DisplayName:LanguageCode",
           "Reference": "Language code",
-          "Target": ""
+          "Target": "کد زبان"
         },
         {
           "LocalizationKey": "DisplayName:Version",
           "Reference": "Version",
-          "Target": ""
+          "Target": "ورژن"
         },
         {
           "LocalizationKey": "Documents",
           "Reference": "Documents",
-          "Target": ""
+          "Target": "اسناد"
         },
         {
           "LocalizationKey": "RemoveFromCache",
           "Reference": "Remove from cache",
-          "Target": ""
+          "Target": "حذف از حافظه پنهان"
         },
         {
           "LocalizationKey": "Reindex",
           "Reference": "Reindex",
-          "Target": ""
+          "Target": "بازنشانی فهرست"
         },
         {
           "LocalizationKey": "ReindexCompleted",
           "Reference": "Reindex completed",
-          "Target": ""
+          "Target": "بازشنانی فهرست تمام شد"
         },
         {
           "LocalizationKey": "RemovedFromCache",
           "Reference": "Removed from cache",
-          "Target": ""
+          "Target": "از حافظه پنهان حذف شد"
         },
         {
           "LocalizationKey": "RemoveFromCacheConfirmation",
           "Reference": "Are you sure you want to remove this item from cache?",
-          "Target": ""
+          "Target": "آیا اطمینان دارید که می خواهید این مورد را از حافظه پنهان حذف کنید؟"
         },
         {
           "LocalizationKey": "ReIndexDocumentConfirmation",
           "Reference": "Are you sure you want to reindex this item?",
-          "Target": ""
+          "Target": "آیا اطمینان دارید که می خواهید این مورد را دوباره فهرست کنید؟"
         },
         {
           "LocalizationKey": "DeleteFromDatabase",
           "Reference": "Delete from database",
-          "Target": ""
+          "Target": "حذف از دیتابیس"
         },
         {
           "LocalizationKey": "Deleted",
           "Reference": "Deleted",
-          "Target": ""
+          "Target": "حذف شد"
         },
         {
           "LocalizationKey": "Search",
           "Reference": "Search",
-          "Target": ""
+          "Target": "جستجو"
         },
         {
           "LocalizationKey": "StartDate",
           "Reference": "Start date",
-          "Target": ""
+          "Target": "از تاریخ"
         },
         {
           "LocalizationKey": "EndDate",
           "Reference": "End date",
-          "Target": ""
+          "Target": "تا تاریخ"
         },
         {
           "LocalizationKey": "CreationTime",
           "Reference": "Creation time",
-          "Target": ""
+          "Target": "تاریخ ایجاد"
         },
         {
           "LocalizationKey": "LastUpdateTime",
           "Reference": "Last update",
-          "Target": ""
+          "Target": "آخرین به روز رسانی"
         },
         {
           "LocalizationKey": "LastSignificantUpdateTime",
           "Reference": "Last significant update",
-          "Target": ""
+          "Target": "آخرین به روز رسانی مهم"
         },
         {
           "LocalizationKey": "Version",
           "Reference": "Version",
-          "Target": ""
+          "Target": "ورژن"
         },
         {
           "LocalizationKey": "LanguageCode",
           "Reference": "Language code",
-          "Target": ""
+          "Target": "کد زبان"
         },
         {
           "LocalizationKey": "FileName",
           "Reference": "File name",
-          "Target": ""
+          "Target": "نام فایل"
         },
         {
           "LocalizationKey": "LastCachedTime",
           "Reference": "Cache time",
-          "Target": ""
+          "Target": "زمان کش"
         }
       ]
     }
